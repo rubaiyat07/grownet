@@ -53,7 +53,11 @@ Key tables:
    git clone https://github.com/rubaiyat07/grownet.git
    cd grownet
 
+<<<<<<< HEAD
 ## 📂 Project Structure
+=======
+   📂 Project Structure
+>>>>>>> 595a2ba66e3ed810a668f381fad0d012b0fbd790
 grownet/
 
 ├── assets/            # Static assets (CSS, JS, images)
