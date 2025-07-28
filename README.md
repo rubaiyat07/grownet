@@ -53,15 +53,21 @@ Key tables:
    git clone https://github.com/rubaiyat07/grownet.git
    cd grownet
 
-   📂 Project Structure
-text
+## 📂 Project Structure
 grownet/
+
 ├── assets/            # Static assets (CSS, JS, images)
+
 ├── config/            # Configuration files
+
 ├── admin/             # Admin panel (not included in this repo)
+
 ├── includes/          # Reusable components
+
 ├── pages/             # Main application pages
+
 ├── index.php          # Main entry point
+
 └── README.md          # This file
 
 🤝 Contributing
@@ -78,5 +84,5 @@ Push to the branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 
 
-📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## 📜 License  
+This project is licensed under the [MIT License](LICENSE).  
