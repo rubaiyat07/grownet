@@ -54,14 +54,20 @@ Key tables:
    cd grownet
 
    📂 Project Structure
-text
 grownet/
+
 ├── assets/            # Static assets (CSS, JS, images)
+
 ├── config/            # Configuration files
+
 ├── admin/             # Admin panel (not included in this repo)
+
 ├── includes/          # Reusable components
+
 ├── pages/             # Main application pages
+
 ├── index.php          # Main entry point
+
 └── README.md          # This file
 
 🤝 Contributing
